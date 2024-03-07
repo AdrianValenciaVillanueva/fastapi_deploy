@@ -16,6 +16,8 @@ app.include_router(delete.router)
 origins = [
     "http://127.0.0.1:5500",  #puerto de desarrollo
     "http://localhost:5500",  #puerto de desarrollo
+    "https://grand-meringue-238750.netlify.app",
+    "https://grand-meringue-238750.netlify.app/"
 ]
 
 #Agrega el middleware de CORS
