@@ -17,7 +17,9 @@ origins = [
     "http://127.0.0.1:5500",  #puerto de desarrollo
     "http://localhost:5500",  #puerto de desarrollo
     "https://calm-alfajores-b3ba98.netlify.app/",
-    "https://calm-alfajores-b3ba98.netlify.app"
+    "https://calm-alfajores-b3ba98.netlify.app",
+    "https://adrianvalvi.netlify.app/",
+    "https://adrianvalvi.netlify.app"
 ]
 
 #Agrega el middleware de CORS
